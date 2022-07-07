@@ -1,0 +1,15 @@
+C:\vbt_C#\memory-management\bin\Debug\net6.0\memory-management.exe
+C:\vbt_C#\memory-management\bin\Debug\net6.0\memory-management.deps.json
+C:\vbt_C#\memory-management\bin\Debug\net6.0\memory-management.runtimeconfig.json
+C:\vbt_C#\memory-management\bin\Debug\net6.0\memory-management.dll
+C:\vbt_C#\memory-management\bin\Debug\net6.0\memory-management.pdb
+C:\vbt_C#\memory-management\obj\Debug\net6.0\memory-management.csproj.AssemblyReference.cache
+C:\vbt_C#\memory-management\obj\Debug\net6.0\memory-management.GeneratedMSBuildEditorConfig.editorconfig
+C:\vbt_C#\memory-management\obj\Debug\net6.0\memory-management.AssemblyInfoInputs.cache
+C:\vbt_C#\memory-management\obj\Debug\net6.0\memory-management.AssemblyInfo.cs
+C:\vbt_C#\memory-management\obj\Debug\net6.0\memory-management.csproj.CoreCompileInputs.cache
+C:\vbt_C#\memory-management\obj\Debug\net6.0\memory-management.dll
+C:\vbt_C#\memory-management\obj\Debug\net6.0\refint\memory-management.dll
+C:\vbt_C#\memory-management\obj\Debug\net6.0\memory-management.pdb
+C:\vbt_C#\memory-management\obj\Debug\net6.0\memory-management.genruntimeconfig.cache
+C:\vbt_C#\memory-management\obj\Debug\net6.0\ref\memory-management.dll
