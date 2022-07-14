@@ -8,10 +8,10 @@ Static tanımlamalara dikkat edilmelidir. Çünkü herkesin erişimine açıktı
 Mesela script key'e göre encryption ve decryption yapacaksak script key'i static yapabiliriz.
 */
 
-// Bilinçsiz tür dönüşümü. Yani küçük türü büyük türe dönüştürdü.
-// byte a = 20;
-// int b;
-// b = a;
+// Bilinçsiz tür dönüşümü. Yani küçük türü büyük türe dönüştürdü ve bu dönüşümü açıkça bildirmedi.
+byte a = 20;
+int b;
+b = a;
 
 // float f = 20;
 // double d;
